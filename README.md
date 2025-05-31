@@ -1,6 +1,10 @@
 <h1 align="center">Helooo 🙌 I am Dinumi Fonseka 👧🏻</h1>
 <h3 align="center">A passionate Software Engineering Undergraduate and a Event Planner 👩🏻‍💻</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Welcome Gif" width="500" />
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinumifonseka" alt="dinumifonseka" /></a> </p>
 
 - 🌱 I’m currently learning **R , C# , Java**
